@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,112,114,142"/>
+<area shape="rect" id="Node000001" href="$classDGtal_1_1ConnectivityException.html" title=" " alt="" coords="172,5,373,35"/>
+<area shape="poly" id="edge348_Node000000_Node000001" title=" " alt="" coords="85,99,119,70,160,44,189,33,191,38,163,49,122,75,88,103"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1IOException.html" title=" " alt="" coords="203,59,342,88"/>
+<area shape="poly" id="edge349_Node000000_Node000002" title=" " alt="" coords="128,106,161,98,206,86,207,92,162,103,130,111"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1InfiniteNumberException.html" title=" " alt="" coords="162,112,383,142"/>
+<area shape="poly" id="edge350_Node000000_Node000003" title=" " alt="" coords="129,124,161,124,161,130,129,130"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1InputException.html" title=" " alt="" coords="193,165,352,195"/>
+<area shape="poly" id="edge351_Node000000_Node000004" title=" " alt="" coords="130,142,162,151,207,162,206,167,161,156,128,148"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1MemoryException.html" title=" " alt="" coords="184,219,361,248"/>
+<area shape="poly" id="edge352_Node000000_Node000005" title=" " alt="" coords="88,150,122,179,163,204,191,216,189,220,160,209,119,183,85,155"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="DGtal::ArithmeticalDSL&lt; TCoordinate, TInteger, adjacency &gt;" name="DGtal::ArithmeticalDSL&lt; TCoordinate, TInteger, adjacency &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class represents a naive (resp. standard) digital straight line (DSL), ie...." alt="" coords="5,79,176,146"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ArithmeticalDSL.html" title=" " alt="" coords="421,5,636,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,71,199,66,312,44,420,32,421,38,313,49,200,71,184,76"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1ArithmeticalDSL.html" title=" " alt="" coords="447,79,610,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,110,446,110,446,115,191,115"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1ArithmeticalDSL.html" title=" " alt="" coords="421,171,636,219"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,132,200,134,421,175,420,180,199,139,190,137"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1NaiveDSL.html" title="Aim: This class is an alias of ArithmeticalDSS for naive DSL. It represents a naive digital straight ..." alt="" coords="684,5,897,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="651,27,683,27,683,32,651,32"/>
+<area shape="rect" id="Node000006" href="$classDGtal_1_1StandardDSL.html" title="Aim: This class is an alias of ArithmeticalDSS for standard DSL. It represents a standard digital str..." alt="" coords="701,171,881,219"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="651,192,700,192,700,198,651,198"/>
+</map>

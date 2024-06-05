@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structDGtal_1_1DrawWithBoardModifier.html" title=" " alt="" coords="5,32,220,62"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1CustomStyle.html" title=" " alt="" coords="268,5,409,35"/>
+<area shape="poly" id="edge289_Node000000_Node000001" title=" " alt="" coords="235,30,267,26,267,31,235,35"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1SetMode.html" title="Modifier class in a Board2D stream. Useful to choose your own mode for a given class...." alt="" coords="278,59,399,88"/>
+<area shape="poly" id="edge290_Node000000_Node000002" title=" " alt="" coords="235,59,278,64,277,69,235,64"/>
+</map>

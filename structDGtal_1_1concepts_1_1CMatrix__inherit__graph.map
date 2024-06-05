@@ -1,0 +1,15 @@
+<map id="DGtal::concepts::CMatrix&lt; T &gt;" name="DGtal::concepts::CMatrix&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Represent any static or dynamic sized matrix having sparse or dense representation." alt="" coords="437,105,641,135"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1concepts_1_1CDenseMatrix.html" title="Aim: Represent any dynamic or static sized matrix having dense representation." alt="" coords="689,5,934,35"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="579,95,630,69,688,44,727,33,728,38,690,49,632,74,581,100"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1concepts_1_1CDynamicMatrix.html" title="Aim: Represent any dynamic sized matrix having sparse or dense representation." alt="" coords="717,59,906,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="657,101,717,93,717,98,657,107"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1concepts_1_1CSparseMatrix.html" title="Aim: Represent any dynamic or static sized matrix having sparse representation." alt="" coords="714,132,909,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="657,133,714,141,713,146,656,138"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1concepts_1_1CStaticMatrix.html" title="Aim: Represent any static sized matrix having sparse or dense representation." alt="" coords="727,205,896,254"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="584,140,690,190,728,203,726,208,688,195,581,145"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1concepts_1_1CVectorSpace.html" title="Aim: Base concept for vector space structure." alt="" coords="213,96,389,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,118,437,118,437,123,405,123"/>
+<area shape="rect" id="Node000003" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="5,105,165,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,118,212,118,212,123,180,123"/>
+</map>

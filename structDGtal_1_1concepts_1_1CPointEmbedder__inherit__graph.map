@@ -1,0 +1,13 @@
+<map id="DGtal::concepts::CPointEmbedder&lt; T &gt;" name="DGtal::concepts::CPointEmbedder&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: A point embedder is a mapping from digital points to Euclidean points. It adds inner types to fu..." alt="" coords="5,392,267,422"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="25,295,247,344"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,360,139,391,133,391,133,360"/>
+<area shape="rect" id="Node000003" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="42,189,201,219"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,234,136,295,130,295,122,234"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title="Aim: Defines a unary functor, which associates arguments to results." alt="" coords="225,180,447,228"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="283,238,179,297,176,292,280,234"/>
+<area shape="rect" id="Node000005" href="$structboost_1_1Assignable.html" title=" " alt="" coords="256,102,416,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="339,147,339,179,333,179,333,147"/>
+<area shape="rect" id="Node000006" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="256,5,416,35"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="339,51,339,102,333,102,333,51"/>
+</map>

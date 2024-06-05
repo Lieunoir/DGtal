@@ -1,0 +1,7 @@
+<map id="DGtal::ForwardCategory" name="DGtal::ForwardCategory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,5,198,35"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1BidirectionalCategory.html" title=" " alt="" coords="13,83,211,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,51,115,82,109,82,109,51"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1RandomAccessCategory.html" title=" " alt="" coords="5,161,219,190"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,129,115,160,109,160,109,129"/>
+</map>

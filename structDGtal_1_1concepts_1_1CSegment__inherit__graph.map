@@ -1,0 +1,24 @@
+<map id="DGtal::concepts::CSegment&lt; T &gt;" name="DGtal::concepts::CSegment&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Defines the concept describing a segment, ie. a valid and not empty range." alt="" coords="275,85,495,115"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1concepts_1_1CSegmentFactory.html" title="Aim: Defines the concept describing a segment ie. a valid and not empty subrange, which can construct..." alt="" coords="543,76,734,125"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="511,98,542,98,542,103,511,103"/>
+<area shape="rect" id="Node000002" href="$structboost_1_1DefaultConstructible.html" title="Go to http://www.sgi.com/tech/stl/DefaultConstructible.html." alt="" coords="5,5,227,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,37,227,44,343,82,341,87,226,49,198,42"/>
+<area shape="rect" id="Node000003" href="$structboost_1_1CopyConstructible.html" title="Go to http://www.sgi.com/tech/stl/CopyConstructible.html." alt="" coords="13,59,219,88"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,83,274,87,274,92,234,88"/>
+<area shape="rect" id="Node000004" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="36,112,196,142"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,115,274,108,275,114,211,120"/>
+<area shape="rect" id="Node000005" href="$structboost_1_1EqualityComparable.html" title="Go to http://www.sgi.com/tech/stl/EqualityComparable.html." alt="" coords="8,165,224,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,158,226,151,341,113,343,118,227,156,200,164"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1concepts_1_1CIncrementalSegmentComputer.html" title="Aim: Defines the concept describing an incremental segment computer, &#160;&#160;ie. a model of CSegmentFactory..." alt="" coords="782,76,993,125"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="750,98,782,98,782,103,750,103"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1concepts_1_1CForwardSegmentComputer.html" title="Aim: Defines the concept describing a forward segment computer. Like any model of CIncrementalSegment..." alt="" coords="1041,76,1227,125"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1008,98,1040,98,1040,103,1008,103"/>
+<area shape="rect" id="Node000009" href="$structDGtal_1_1concepts_1_1CBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a bidirectional segment computer, &#160;&#160;ie. a model of concepts::CSeg..." alt="" coords="1275,39,1486,87"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1242,81,1274,76,1275,81,1243,86"/>
+<area shape="rect" id="Node000011" href="$structDGtal_1_1concepts_1_1CDynamicSegmentComputer.html" title="Aim: Defines the concept describing a dynamic segment computer, &#160;&#160;ie. a model of CSegment that can ex..." alt="" coords="1287,112,1475,161"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1243,113,1286,120,1286,125,1242,119"/>
+<area shape="rect" id="Node000010" href="$structDGtal_1_1concepts_1_1CDynamicBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a dynamic and bidirectional segment computer, ie...." alt="" coords="1534,76,1780,125"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1502,77,1534,81,1533,86,1501,82"/>
+<area shape="poly" id="edge11_Node000011_Node000010" title=" " alt="" coords="1490,119,1534,114,1534,119,1491,125"/>
+</map>

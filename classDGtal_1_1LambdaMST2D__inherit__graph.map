@@ -1,0 +1,7 @@
+<map id="DGtal::LambdaMST2D&lt; DSSSegmentationComputer, LambdaFunction &gt;" name="DGtal::LambdaMST2D&lt; DSSSegmentationComputer, LambdaFunction &gt;">
+<area shape="rect" id="Node000001" title="Aim: Simplify creation of Lambda MST tangent estimator." alt="" coords="1012,48,1219,115"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1LambdaMST2DEstimator.html" title=" " alt="" coords="583,38,964,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="979,79,1011,79,1011,84,979,84"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1LambdaMST2DEstimator.html" title=" " alt="" coords="5,48,222,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,79,582,79,582,84,237,84"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DGtal::PowerMap&lt; TWeightImage, TPowerSeparableMetric, TImageContainer &gt;" name="DGtal::PowerMap&lt; TWeightImage, TPowerSeparableMetric, TImageContainer &gt;">
+<area shape="rect" id="Node000001" title="Aim: Implementation of the linear in time Power map construction." alt="" coords="5,71,226,138"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ReverseDistanceTransformation.html" title="Aim: Implementation of the linear in time reverse distance transformation for separable metrics." alt="" coords="567,5,829,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,67,249,66,414,47,566,38,566,44,414,52,250,71,241,73"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1PowerMap.html" title=" " alt="" coords="572,97,824,240"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,143,250,161,333,174,417,180,498,181,571,178,571,183,498,186,416,185,332,179,249,166,193,148"/>
+</map>

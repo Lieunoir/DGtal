@@ -1,0 +1,7 @@
+<map id="LibBoard::Group" name="LibBoard::Group">
+<area shape="rect" id="Node000001" title="A group of shapes. A group is basically a ShapeList except that when rendered in either an SVG of a F..." alt="" coords="15,161,139,190"/>
+<area shape="rect" id="Node000002" href="$structLibBoard_1_1ShapeList.html" title="A group of shapes." alt="" coords="5,83,149,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,129,80,160,74,160,74,129"/>
+<area shape="rect" id="Node000003" href="$structLibBoard_1_1Shape.html" title="Abstract structure for a 2D shape." alt="" coords="16,5,138,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,51,80,82,74,82,74,51"/>
+</map>

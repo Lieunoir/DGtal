@@ -1,0 +1,9 @@
+<map id="DGtal::concepts::CLMSTTangentFromDSS&lt; T &gt;" name="DGtal::concepts::CLMSTTangentFromDSS&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Defines the concept describing a functor which calculates a direction of the 2D DSS and an eccen..." alt="" coords="275,49,494,98"/>
+<area shape="rect" id="Node000002" href="$structboost_1_1DefaultConstructible.html" title="Go to http://www.sgi.com/tech/stl/DefaultConstructible.html." alt="" coords="5,5,227,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,36,275,49,274,54,209,41"/>
+<area shape="rect" id="Node000003" href="$structboost_1_1CopyConstructible.html" title="Go to http://www.sgi.com/tech/stl/CopyConstructible.html." alt="" coords="13,59,219,88"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,71,274,71,274,76,235,76"/>
+<area shape="rect" id="Node000004" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="36,112,196,142"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,106,274,93,275,98,210,111"/>
+</map>

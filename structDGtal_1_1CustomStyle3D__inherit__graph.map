@@ -1,0 +1,5 @@
+<map id="DGtal::CustomStyle3D" name="DGtal::CustomStyle3D">
+<area shape="rect" id="Node000001" title="Modifier class in a Display3D stream. Useful to choose your own style for a given class...." alt="" coords="45,83,205,113"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1DrawWithDisplay3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="5,5,245,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,51,128,82,122,82,122,51"/>
+</map>

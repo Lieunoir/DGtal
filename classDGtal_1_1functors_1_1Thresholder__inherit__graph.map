@@ -1,0 +1,5 @@
+<map id="DGtal::functors::Thresholder&lt; T, isLower, isEqual &gt;" name="DGtal::functors::Thresholder&lt; T, isLower, isEqual &gt;">
+<area shape="rect" id="Node000001" title="Aim: A small functor with an operator () that compares one value to a threshold value according to tw..." alt="" coords="5,5,205,54"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1functors_1_1Thresholder.html" title=" " alt="" coords="5,140,205,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,69,108,140,102,140,102,69"/>
+</map>

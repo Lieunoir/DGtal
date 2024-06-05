@@ -1,0 +1,7 @@
+<map id="DGtal::Update2DDomainPosition&lt; Space, KSpace &gt;" name="DGtal::Update2DDomainPosition&lt; Space, KSpace &gt;">
+<area shape="rect" id="Node000001" title="class to modify the position and orientation of an 2D domain." alt="" coords="12,161,238,209"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1DrawWithViewer3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="6,83,244,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,128,128,160,122,160,122,128"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1DrawWithDisplay3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="5,5,245,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,51,128,82,122,82,122,51"/>
+</map>

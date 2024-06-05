@@ -1,0 +1,5 @@
+<map id="DGtal::ConstIteratorAdapter&lt; TIterator, TLightFunctor, TReturnType &gt;" name="DGtal::ConstIteratorAdapter&lt; TIterator, TLightFunctor, TReturnType &gt;">
+<area shape="rect" id="Node000001" title="This class adapts any iterator so that operator* returns another element than the one pointed to by t..." alt="" coords="309,43,508,111"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,261,149"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,75,308,75,308,80,276,80"/>
+</map>

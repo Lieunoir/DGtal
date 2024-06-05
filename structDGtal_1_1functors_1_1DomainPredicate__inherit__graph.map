@@ -1,0 +1,5 @@
+<map id="DGtal::functors::DomainPredicate&lt; TDomain &gt;" name="DGtal::functors::DomainPredicate&lt; TDomain &gt;">
+<area shape="rect" id="Node000001" title="Aim: The predicate returning true iff the point is in the domain given at construction...." alt="" coords="5,5,236,54"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1functors_1_1DomainPredicate.html" title=" " alt="" coords="5,121,236,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,70,123,121,118,121,118,70"/>
+</map>

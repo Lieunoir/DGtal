@@ -1,0 +1,9 @@
+<map id="LibBoard::Board" name="LibBoard::Board">
+<area shape="rect" id="Node000001" title="Class for EPS, FIG or SVG drawings." alt="" coords="16,161,138,190"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1Board2D.html" title="Aim: This class specializes a &#39;Board&#39; class so as to display DGtal objects more naturally (with &lt;&lt;)...." alt="" coords="17,238,137,268"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="80,206,80,238,74,238,74,206"/>
+<area shape="rect" id="Node000002" href="$structLibBoard_1_1ShapeList.html" title="A group of shapes." alt="" coords="5,83,149,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,129,80,160,74,160,74,129"/>
+<area shape="rect" id="Node000003" href="$structLibBoard_1_1Shape.html" title="Abstract structure for a 2D shape." alt="" coords="16,5,138,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,51,80,82,74,82,74,51"/>
+</map>

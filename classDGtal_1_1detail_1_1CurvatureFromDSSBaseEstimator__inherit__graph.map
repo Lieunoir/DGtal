@@ -1,0 +1,11 @@
+<map id="DGtal::detail::CurvatureFromDSSBaseEstimator&lt; DSSComputer, Functor &gt;" name="DGtal::detail::CurvatureFromDSSBaseEstimator&lt; DSSComputer, Functor &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,180,139"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1detail_1_1CurvatureFromDSSBaseEstimator.html" title=" " alt="" coords="423,5,642,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,87,203,86,422,59,423,64,204,91,196,92"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1detail_1_1CurvatureFromDSSBaseEstimator.html" title=" " alt="" coords="423,116,642,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,123,204,124,317,138,423,149,422,154,316,144,203,129,194,128"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1CurvatureFromDSSEstimator.html" title=" " alt="" coords="690,24,931,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="658,46,689,46,689,51,658,51"/>
+<area shape="rect" id="Node000005" href="$classDGtal_1_1CurvatureFromDSSLengthEstimator.html" title=" " alt="" coords="698,135,924,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="658,157,697,157,697,162,658,162"/>
+</map>

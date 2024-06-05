@@ -1,0 +1,71 @@
+<map id="boost::DefaultConstructible&lt; T &gt;" name="boost::DefaultConstructible&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Go to http://www.sgi.com/tech/stl/DefaultConstructible.html." alt="" coords="5,421,227,451"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1C2x2DetComputer.html" title="Aim: This concept gathers all models that are able to compute the (sign of the) determinant of a 2x2 ..." alt="" coords="328,5,539,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,405,170,275,206,193,248,114,272,74,285,59,305,45,329,33,332,38,308,49,288,63,276,77,253,116,211,196,175,277,129,407"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1concepts_1_1CLMSTDSSFilter.html" title="Aim: Defines the concept describing a functor which filters DSSes for L&#45;MST calculations." alt="" coords="307,59,560,88"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,406,143,340,179,256,203,212,232,169,266,131,305,98,326,87,329,91,308,102,270,134,236,173,208,214,183,258,148,342,127,407"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1concepts_1_1CLMSTTangentFromDSS.html" title="Aim: Defines the concept describing a functor which calculates a direction of the 2D DSS and an eccen..." alt="" coords="324,112,543,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,406,152,354,191,289,242,224,272,195,305,170,326,159,329,163,308,174,275,199,246,228,195,292,157,357,132,408"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1concepts_1_1CLabel.html" title="Aim: Define the concept of DGtal labels. Models of CLabel can be default&#45;constructible,..." alt="" coords="335,184,532,214"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="132,407,160,365,199,315,248,265,305,223,334,211,336,216,308,228,252,269,203,319,164,368,136,410"/>
+<area shape="rect" id="Node000014" href="$structDGtal_1_1concepts_1_1CPolarPointComparator2D.html" title="Aim: This concept gathers classes that are able to compare the position of two given points &#160;around a..." alt="" coords="334,237,533,286"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="144,409,214,353,259,323,305,296,335,284,337,289,308,301,262,327,218,357,147,413"/>
+<area shape="rect" id="Node000015" href="$structDGtal_1_1concepts_1_1CPositiveIrreducibleFraction.html" title="Aim: Defines positive irreducible fractions, i.e. fraction p/q, p and q non&#45;negative integers,..." alt="" coords="342,311,525,359"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="175,413,306,370,346,357,347,362,307,375,177,418"/>
+<area shape="rect" id="Node000016" href="$structDGtal_1_1concepts_1_1CPreCellularGridSpaceND.html" title="Aim: This concept describes an unbounded cellular grid space in nD. In these spaces obtained by carte..." alt="" coords="332,384,535,433"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="242,422,331,414,332,420,242,428"/>
+<area shape="rect" id="Node000018" href="$structDGtal_1_1concepts_1_1CPrimitiveComputer.html" title="Aim: Defines the concept describing an object that computes some primitive from input points,..." alt="" coords="338,457,529,506"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="240,451,338,465,337,471,239,456"/>
+<area shape="rect" id="Node000021" href="$structDGtal_1_1concepts_1_1CSTLAssociativeContainer.html" title="Aim: Defines the concept describing an Associative Container of the STL (https://www...." alt="" coords="321,531,546,579"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="165,455,308,515,344,527,343,532,306,520,163,460"/>
+<area shape="rect" id="Node000022" href="$structDGtal_1_1concepts_1_1CSegment.html" title="Aim: Defines the concept describing a segment, ie. a valid and not empty range." alt="" coords="323,603,544,632"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="143,460,213,525,258,560,308,588,337,600,335,605,306,593,255,564,209,529,139,464"/>
+<area shape="rect" id="Node000029" href="$structDGtal_1_1concepts_1_1CStaticMatrix.html" title="Aim: Represent any static sized matrix having sparse or dense representation." alt="" coords="349,656,518,705"/>
+<area shape="poly" id="edge30_Node000001_Node000029" title=" " alt="" coords="137,462,166,502,205,551,253,600,308,642,350,661,348,666,305,646,250,604,201,555,161,506,133,465"/>
+<area shape="rect" id="Node000030" href="$structDGtal_1_1concepts_1_1CStaticVector.html" title="Aim: Represent any static sized column vector having sparse or dense representation." alt="" coords="349,729,518,778"/>
+<area shape="poly" id="edge31_Node000001_Node000030" title=" " alt="" coords="131,464,156,518,195,586,246,655,275,686,308,714,350,735,347,740,305,718,272,690,242,658,190,588,152,520,127,467"/>
+<area shape="rect" id="Node000031" href="$structDGtal_1_1concepts_1_1CSurfelLocalEstimator.html" title="Aim: This concept describes an object that can process a range of surfels (that are supposed to belon..." alt="" coords="347,803,520,851"/>
+<area shape="poly" id="edge32_Node000001_Node000031" title=" " alt="" coords="127,466,147,533,183,621,207,667,236,711,270,752,308,787,348,808,346,813,305,792,266,756,232,714,203,669,178,623,142,535,122,467"/>
+<area shape="rect" id="Node000033" href="$structboost_1_1DefaultConstructible.html" title=" " alt="" coords="323,877,544,907"/>
+<area shape="poly" id="edge34_Node000001_Node000033" title=" " alt="" coords="128,466,172,611,209,703,253,793,276,832,288,846,308,861,337,874,335,879,305,865,285,850,271,835,248,795,204,705,167,612,122,467"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1concepts_1_1CQuantity.html" title="Aim: defines the concept of quantity in DGtal." alt="" coords="608,184,825,214"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="547,196,607,196,607,202,547,202"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1concepts_1_1CBoundedNumber.html" title="Aim: The concept CBoundedNumber specifies what are the bounded numbers. Models of this concept should..." alt="" coords="882,83,1075,131"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="775,176,906,129,908,134,777,181"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1concepts_1_1CIntegralNumber.html" title="Aim: Concept checking for Integral Numbers. Models of this concept should be listed in NumberTraits c..." alt="" coords="1108,144,1292,193"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="841,188,1107,171,1107,177,841,194"/>
+<area shape="rect" id="Node000010" href="$structDGtal_1_1concepts_1_1CSignedNumber.html" title="Aim: Concept checking for Signed Numbers. Models of this concept should be listed in NumberTraits cla..." alt="" coords="890,205,1067,254"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="841,211,890,216,889,222,840,216"/>
+<area shape="rect" id="Node000013" href="$structDGtal_1_1concepts_1_1CUnsignedNumber.html" title="Aim: Concept checking for Unsigned numbers. Models of this concept should be listed in NumberTraits c..." alt="" coords="881,279,1076,327"/>
+<area shape="poly" id="edge13_Node000006_Node000013" title=" " alt="" coords="767,218,874,263,907,275,905,280,872,268,765,223"/>
+<area shape="rect" id="Node000009" href="$structDGtal_1_1concepts_1_1CInteger.html" title="Aim: Concept checking for Integer Numbers. More precisely, this concept is a refinement of both CEucl..." alt="" coords="1860,169,2072,199"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1308,168,1859,179,1859,185,1307,173"/>
+<area shape="rect" id="Node000011" href="$structDGtal_1_1concepts_1_1CCommutativeRing.html" title="Aim: Defines the mathematical concept equivalent to a unitary commutative ring." alt="" coords="1316,205,1534,254"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1083,227,1315,227,1315,232,1083,232"/>
+<area shape="rect" id="Node000012" href="$structDGtal_1_1concepts_1_1CEuclideanRing.html" title="Aim: Defines the mathematical concept equivalent to a unitary commutative ring with a division operat..." alt="" coords="1591,205,1785,254"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1550,227,1591,227,1591,232,1550,232"/>
+<area shape="poly" id="edge12_Node000012_Node000009" title=" " alt="" coords="1800,209,1870,197,1871,202,1800,214"/>
+<area shape="rect" id="Node000017" href="$structDGtal_1_1concepts_1_1CCellularGridSpaceND.html" title="Aim: This concept describes a cellular grid space in nD. In these spaces obtained by cartesian produc..." alt="" coords="626,384,807,433"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="550,406,626,406,626,411,550,411"/>
+<area shape="rect" id="Node000019" href="$structDGtal_1_1concepts_1_1CIncrementalPrimitiveComputer.html" title="Aim: Defines the concept describing an object that computes some primitive from input points given on..." alt="" coords="612,457,822,506"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="544,479,611,479,611,484,544,484"/>
+<area shape="rect" id="Node000020" href="$structDGtal_1_1concepts_1_1CAdditivePrimitiveComputer.html" title="Aim: Defines the concept describing an object that computes some primitive from input points given gr..." alt="" coords="885,457,1072,506"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="837,479,885,479,885,484,837,484"/>
+<area shape="rect" id="Node000023" href="$structDGtal_1_1concepts_1_1CSegmentFactory.html" title="Aim: Defines the concept describing a segment ie. a valid and not empty subrange, which can construct..." alt="" coords="621,593,812,642"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="559,615,620,615,620,620,559,620"/>
+<area shape="rect" id="Node000024" href="$structDGtal_1_1concepts_1_1CIncrementalSegmentComputer.html" title="Aim: Defines the concept describing an incremental segment computer, &#160;&#160;ie. a model of CSegmentFactory..." alt="" coords="873,593,1084,642"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="828,615,873,615,873,620,828,620"/>
+<area shape="rect" id="Node000025" href="$structDGtal_1_1concepts_1_1CForwardSegmentComputer.html" title="Aim: Defines the concept describing a forward segment computer. Like any model of CIncrementalSegment..." alt="" coords="1332,593,1518,642"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="1099,615,1332,615,1332,620,1099,620"/>
+<area shape="rect" id="Node000026" href="$structDGtal_1_1concepts_1_1CBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a bidirectional segment computer, &#160;&#160;ie. a model of concepts::CSeg..." alt="" coords="1582,557,1794,606"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="1534,600,1582,593,1582,599,1534,605"/>
+<area shape="rect" id="Node000028" href="$structDGtal_1_1concepts_1_1CDynamicSegmentComputer.html" title="Aim: Defines the concept describing a dynamic segment computer, &#160;&#160;ie. a model of CSegment that can ex..." alt="" coords="1594,631,1782,679"/>
+<area shape="poly" id="edge28_Node000025_Node000028" title=" " alt="" coords="1534,630,1594,639,1593,644,1533,636"/>
+<area shape="rect" id="Node000027" href="$structDGtal_1_1concepts_1_1CDynamicBidirectionalSegmentComputer.html" title="Aim: Defines the concept describing a dynamic and bidirectional segment computer, ie...." alt="" coords="1843,593,2088,642"/>
+<area shape="poly" id="edge27_Node000026_Node000027" title=" " alt="" coords="1809,595,1843,599,1842,604,1809,600"/>
+<area shape="poly" id="edge29_Node000028_Node000027" title=" " alt="" coords="1797,637,1842,631,1843,637,1798,643"/>
+<area shape="rect" id="Node000032" href="$structDGtal_1_1concepts_1_1CDigitalSurfaceLocalEstimator.html" title="Aim: This concept describes an object that can process a range over some generic digital surface so a..." alt="" coords="623,800,810,849"/>
+<area shape="poly" id="edge33_Node000031_Node000032" title=" " alt="" coords="535,823,623,822,623,828,535,829"/>
+<area shape="rect" id="Node000034" href="$structDGtal_1_1concepts_1_1CLinearAlgebraSolver.html" title="Aim: Describe a linear solver defined over a linear algebra. Problems are of the form:" alt="" coords="630,873,804,922"/>
+<area shape="poly" id="edge35_Node000033_Node000034" title=" " alt="" coords="560,892,629,893,629,899,560,897"/>
+</map>

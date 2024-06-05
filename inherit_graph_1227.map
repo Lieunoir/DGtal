@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,88,123,118"/>
+<area shape="rect" id="Node000001" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="171,5,414,54"/>
+<area shape="poly" id="edge360_Node000000_Node000001" title=" " alt="" coords="123,80,170,64,209,52,210,57,171,70,124,85"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="171,79,414,127"/>
+<area shape="poly" id="edge361_Node000000_Node000002" title=" " alt="" coords="138,100,170,100,170,106,138,106"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1ImageContainerBySTLVector.html" title=" " alt="" coords="171,152,414,201"/>
+<area shape="poly" id="edge362_Node000000_Node000003" title=" " alt="" coords="124,121,171,136,210,149,209,154,170,142,123,126"/>
+</map>

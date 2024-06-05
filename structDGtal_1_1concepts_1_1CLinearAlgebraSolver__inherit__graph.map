@@ -1,0 +1,7 @@
+<map id="DGtal::concepts::CLinearAlgebraSolver&lt; S, V, M &gt;" name="DGtal::concepts::CLinearAlgebraSolver&lt; S, V, M &gt;">
+<area shape="rect" id="Node000001" title="Aim: Describe a linear solver defined over a linear algebra. Problems are of the form:" alt="" coords="29,180,203,228"/>
+<area shape="rect" id="Node000002" href="$structboost_1_1DefaultConstructible.html" title=" " alt="" coords="5,102,227,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,147,119,179,113,179,113,147"/>
+<area shape="rect" id="Node000003" href="$structboost_1_1DefaultConstructible.html" title="Go to http://www.sgi.com/tech/stl/DefaultConstructible.html." alt="" coords="5,5,227,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,51,119,102,113,102,113,51"/>
+</map>

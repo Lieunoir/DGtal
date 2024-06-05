@@ -1,0 +1,50 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structDGtal_1_1DrawableWithDisplay3D.html" title=" " alt="" coords="19,85,231,115"/>
+<area shape="rect" id="Node000001" href="$structDGtal_1_1DrawWithBoard3DTo2DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="311,76,512,125"/>
+<area shape="poly" id="edge264_Node000000_Node000001" title=" " alt="" coords="247,98,311,98,311,103,247,103"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1CameraDirection.html" title="CameraDirection class to set camera direction." alt="" coords="614,112,781,142"/>
+<area shape="poly" id="edge265_Node000001_Node000002" title=" " alt="" coords="528,108,613,116,613,122,527,114"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1CameraPosition.html" title="CameraPosition class to set camera position." alt="" coords="617,165,777,195"/>
+<area shape="poly" id="edge266_Node000001_Node000006" title=" " alt="" coords="500,127,579,151,623,162,622,167,577,156,499,132"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1CameraUpVector.html" title="CameraUpVector class to set camera up&#45;vector." alt="" coords="612,5,782,35"/>
+<area shape="poly" id="edge267_Node000001_Node000007" title=" " alt="" coords="499,68,577,44,622,33,623,38,579,49,500,73"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1CameraZNearFar.html" title="CameraZNearFar class to set near and far distance." alt="" coords="612,59,782,88"/>
+<area shape="poly" id="edge268_Node000001_Node000008" title=" " alt="" coords="527,87,611,79,612,84,527,92"/>
+<area shape="rect" id="Node000015" href="$structDGtal_1_1DrawWithDisplay3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="5,355,245,384"/>
+<area shape="rect" id="Node000016" href="$structDGtal_1_1ClippingPlane.html" title="Class for adding a Clipping plane through the Viewer3D stream. Realizes the concept CDrawableWithView..." alt="" coords="338,381,485,411"/>
+<area shape="poly" id="edge269_Node000015_Node000016" title=" " alt="" coords="260,379,337,387,337,392,260,385"/>
+<area shape="rect" id="Node000017" href="$structDGtal_1_1CustomColors3D.html" title=" " alt="" coords="327,435,496,464"/>
+<area shape="poly" id="edge270_Node000015_Node000017" title=" " alt="" coords="186,387,293,420,338,432,337,437,292,425,184,392"/>
+<area shape="rect" id="Node000018" href="$structDGtal_1_1CustomStyle3D.html" title="Modifier class in a Display3D stream. Useful to choose your own style for a given class...." alt="" coords="332,488,491,518"/>
+<area shape="poly" id="edge271_Node000015_Node000018" title=" " alt="" coords="159,392,219,434,294,474,332,486,330,491,292,479,216,438,156,396"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1DrawWithViewer3DModifier.html" title="Base class specifying the methods for classes which intend to modify a Viewer3D stream." alt="" coords="293,328,530,358"/>
+<area shape="poly" id="edge272_Node000015_Node000003" title=" " alt="" coords="260,354,292,351,293,357,260,360"/>
+<area shape="rect" id="Node000019" href="$structDGtal_1_1SetMode3D.html" title="Modifier class in a Display3D stream. Useful to choose your own mode for a given class...." alt="" coords="342,541,481,571"/>
+<area shape="poly" id="edge285_Node000015_Node000019" title=" " alt="" coords="149,395,209,462,249,498,294,527,343,545,341,550,291,532,246,502,205,466,145,398"/>
+<area shape="rect" id="Node000020" href="$structDGtal_1_1SetName3D.html" title=" " alt="" coords="342,168,481,198"/>
+<area shape="poly" id="edge286_Node000015_Node000020" title=" " alt="" coords="145,341,205,273,246,237,291,207,340,189,342,194,294,212,249,241,209,277,149,344"/>
+<area shape="rect" id="Node000021" href="$structDGtal_1_1SetSelectCallback3D.html" title=" " alt="" coords="317,221,506,251"/>
+<area shape="poly" id="edge287_Node000015_Node000021" title=" " alt="" coords="156,343,216,301,292,260,325,249,326,254,294,265,219,305,159,347"/>
+<area shape="rect" id="Node000022" href="$structDGtal_1_1TransformedPrism.html" title="class to modify the position and scale to construct better illustration mode." alt="" coords="322,275,501,304"/>
+<area shape="poly" id="edge288_Node000015_Node000022" title=" " alt="" coords="184,347,292,314,337,302,338,307,293,319,186,352"/>
+<area shape="poly" id="edge275_Node000003_Node000002" title=" " alt="" coords="525,317,528,314,543,295,550,276,551,235,552,193,560,172,576,152,593,139,612,131,614,136,596,144,580,155,565,174,558,194,557,235,556,277,548,298,532,318,529,321"/>
+<area shape="poly" id="edge276_Node000003_Node000006" title=" " alt="" coords="524,318,528,314,540,302,546,289,551,261,556,233,564,218,576,205,595,193,616,185,618,190,598,198,580,209,568,221,562,234,557,262,552,290,544,305,532,318,527,322"/>
+<area shape="poly" id="edge277_Node000003_Node000007" title=" " alt="" coords="526,316,528,314,550,282,558,249,557,216,551,182,545,148,544,113,553,79,576,45,592,32,610,24,613,29,595,37,580,49,558,81,550,114,551,147,557,181,563,215,564,250,555,284,532,318,530,320"/>
+<area shape="poly" id="edge278_Node000003_Node000008" title=" " alt="" coords="526,317,528,314,547,289,554,262,555,236,551,208,548,181,548,153,556,125,576,98,592,86,611,78,613,83,595,91,580,102,561,128,554,154,553,181,557,208,560,235,560,263,552,291,532,318,529,321"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1AddTextureImage2DWithFunctor.html" title="class to insert a custom 2D textured image by using a conversion functor and allows to change the def..." alt="" coords="587,512,808,579"/>
+<area shape="poly" id="edge273_Node000003_Node000004" title=" " alt="" coords="528,364,532,368,546,383,553,400,558,433,561,465,568,481,580,497,594,509,591,513,576,501,563,484,556,466,553,433,548,401,541,386,528,371,524,368"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1AddTextureImage3DWithFunctor.html" title="class to insert a custom 3D textured image by using a conversion functor and allows to change the def..." alt="" coords="587,604,808,671"/>
+<area shape="poly" id="edge274_Node000003_Node000005" title=" " alt="" coords="529,365,532,368,552,395,561,423,562,451,559,479,556,506,556,534,563,561,580,589,593,601,589,605,576,593,558,563,550,534,550,506,553,478,556,451,556,424,547,398,528,371,526,369"/>
+<area shape="rect" id="Node000009" href="$structDGtal_1_1Translate2DDomain.html" title="class to modify the data of an given image and also the possibility to translate it (optional)." alt="" coords="604,696,790,726"/>
+<area shape="poly" id="edge279_Node000003_Node000009" title=" " alt="" coords="530,366,532,368,548,387,558,407,567,447,565,487,557,527,549,566,546,604,555,643,565,662,580,681,605,698,602,703,576,685,561,665,550,645,541,605,544,565,552,525,560,486,562,448,553,409,543,390,528,371,526,369"/>
+<area shape="rect" id="Node000010" href="$structDGtal_1_1Update2DDomainPosition.html" title="class to modify the position and orientation of an 2D domain." alt="" coords="585,749,810,798"/>
+<area shape="poly" id="edge280_Node000003_Node000010" title=" " alt="" coords="530,366,532,368,550,391,562,414,569,437,572,461,569,507,558,553,548,598,544,644,546,667,552,690,563,713,580,736,592,747,588,751,576,739,559,715,547,691,541,668,539,644,543,597,553,551,563,506,567,461,564,439,557,416,545,394,528,371,527,370"/>
+<area shape="rect" id="Node000011" href="$structDGtal_1_1UpdateImage3DEmbedding.html" title="class to modify the 3d embedding of the image (useful to display not only 2D slice images)...." alt="" coords="578,219,816,267"/>
+<area shape="poly" id="edge281_Node000003_Node000011" title=" " alt="" coords="513,320,529,314,553,296,577,278,605,265,607,270,579,282,556,301,531,318,515,325"/>
+<area shape="rect" id="Node000012" href="$structDGtal_1_1UpdateImageData.html" title="class to modify the data of an given image and also the possibility to translate it (optional)." alt="" coords="606,292,788,341"/>
+<area shape="poly" id="edge282_Node000003_Node000012" title=" " alt="" coords="545,328,605,322,606,327,545,333"/>
+<area shape="rect" id="Node000013" href="$structDGtal_1_1UpdateImagePosition.html" title="class to modify the position and orientation of an textured 2D image." alt="" coords="598,365,797,414"/>
+<area shape="poly" id="edge283_Node000003_Node000013" title=" " alt="" coords="522,358,597,371,596,376,521,363"/>
+<area shape="rect" id="Node000014" href="$structDGtal_1_1UpdateLastImagePosition.html" title="class to modify the position and orientation of an textured 2D image." alt="" coords="585,439,809,487"/>
+<area shape="poly" id="edge284_Node000003_Node000014" title=" " alt="" coords="522,362,532,367,548,381,557,396,565,410,580,423,602,436,600,440,576,428,561,413,552,398,543,385,528,372,519,367"/>
+</map>

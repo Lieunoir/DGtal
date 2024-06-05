@@ -1,0 +1,5 @@
+<map id="DGtal::IteratorAdapter&lt; TIterator, TFunctor, TReturnType &gt;" name="DGtal::IteratorAdapter&lt; TIterator, TFunctor, TReturnType &gt;">
+<area shape="rect" id="Node000001" title="This class adapts any lvalue iterator so that operator* returns a member on the element pointed to by..." alt="" coords="269,15,433,83"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,221,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,46,268,46,268,51,236,51"/>
+</map>

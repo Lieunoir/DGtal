@@ -1,0 +1,17 @@
+<map id="DGtal::concepts::COrientationFunctor&lt; T &gt;" name="DGtal::concepts::COrientationFunctor&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: This concept gathers models implementing an orientation test of &#160;points in a space of dimension ..." alt="" coords="24,470,231,518"/>
+<area shape="rect" id="Node000008" href="$structDGtal_1_1concepts_1_1COrientationFunctor2.html" title="Aim: This concept is a refinement of COrientationFunctor, useful for simple algebraic curves that can..." alt="" coords="24,566,231,615"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="130,534,130,566,125,566,125,534"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1concepts_1_1CPointFunctor.html" title="Aim: Defines a functor on points." alt="" coords="5,392,250,422"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,437,130,469,125,469,125,437"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title=" " alt="" coords="17,295,238,344"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,360,130,391,125,391,125,360"/>
+<area shape="rect" id="Node000004" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="33,189,193,219"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,234,127,295,122,295,114,234"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1concepts_1_1CUnaryFunctor.html" title="Aim: Defines a unary functor, which associates arguments to results." alt="" coords="217,180,438,228"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="274,238,171,297,168,292,272,234"/>
+<area shape="rect" id="Node000006" href="$structboost_1_1Assignable.html" title=" " alt="" coords="247,102,408,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="330,147,330,179,325,179,325,147"/>
+<area shape="rect" id="Node000007" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="248,5,407,35"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="330,51,330,102,325,102,325,51"/>
+</map>

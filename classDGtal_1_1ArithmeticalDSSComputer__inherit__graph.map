@@ -1,0 +1,9 @@
+<map id="DGtal::ArithmeticalDSSComputer&lt; TIterator, TInteger, adjacency &gt;" name="DGtal::ArithmeticalDSSComputer&lt; TIterator, TInteger, adjacency &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class is a wrapper around ArithmeticalDSS that is devoted to the dynamic recognition of dig..." alt="" coords="5,106,232,155"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="427,14,653,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,98,255,84,342,67,426,56,427,61,343,73,256,89,204,103"/>
+<area shape="rect" id="Node000003" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="427,106,653,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,128,426,128,426,133,247,133"/>
+<area shape="rect" id="Node000004" href="$classDGtal_1_1ArithmeticalDSSComputer.html" title=" " alt="" coords="427,179,653,247"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,157,256,171,343,187,427,199,426,204,342,193,255,176,204,162"/>
+</map>

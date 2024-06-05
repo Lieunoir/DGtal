@@ -1,0 +1,37 @@
+<map id="LibBoard::Shape" name="LibBoard::Shape">
+<area shape="rect" id="Node000001" title="Abstract structure for a 2D shape." alt="" coords="5,139,128,168"/>
+<area shape="rect" id="Node000002" href="$structLibBoard_1_1Dot.html" title="A line between two points." alt="" coords="194,5,301,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,125,125,84,174,45,196,33,199,38,177,49,129,88,91,129"/>
+<area shape="rect" id="Node000003" href="$structLibBoard_1_1Ellipse.html" title="An ellipse." alt="" coords="186,59,309,88"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,129,175,98,202,86,204,91,177,103,112,134"/>
+<area shape="rect" id="Node000006" href="$structLibBoard_1_1Line.html" title="A line between two points." alt="" coords="192,112,303,142"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="143,140,191,132,192,138,143,145"/>
+<area shape="rect" id="Node000008" href="$structLibBoard_1_1Polyline.html" title="A polygonal line described by a series of 2D points." alt="" coords="181,165,314,195"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="144,162,181,168,180,173,143,167"/>
+<area shape="rect" id="Node000014" href="$structLibBoard_1_1ShapeList.html" title="A group of shapes." alt="" coords="176,245,319,275"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="108,174,222,243,219,247,105,179"/>
+<area shape="rect" id="Node000018" href="$structLibBoard_1_1Text.html" title="A piece of text." alt="" coords="193,299,302,328"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="86,180,124,233,149,261,177,285,197,296,194,300,174,289,145,264,120,236,82,183"/>
+<area shape="rect" id="Node000004" href="$structLibBoard_1_1Circle.html" title="A circle." alt="" coords="403,5,520,35"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="323,52,401,32,403,37,324,57"/>
+<area shape="rect" id="Node000005" href="$structLibBoard_1_1Arc.html" title="An arc." alt="" coords="642,5,747,35"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="535,18,642,18,642,23,535,23"/>
+<area shape="rect" id="Node000007" href="$structLibBoard_1_1Arrow.html" title="A line between two points with an arrow at one extremity." alt="" coords="400,59,522,88"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="317,107,399,86,400,91,318,112"/>
+<area shape="rect" id="Node000009" href="$structLibBoard_1_1GouraudTriangle.html" title="A triangle with shaded filling according to colors given for each vertex." alt="" coords="367,112,555,142"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="324,158,398,140,399,145,325,164"/>
+<area shape="rect" id="Node000010" href="$structLibBoard_1_1Rectangle.html" title="A rectangle." alt="" coords="389,165,534,195"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="329,178,388,178,388,183,329,183"/>
+<area shape="rect" id="Node000012" href="$structLibBoard_1_1Triangle.html" title="A triangle. Basically a Polyline with a convenient constructor." alt="" coords="394,219,528,248"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="325,197,399,215,398,221,324,202"/>
+<area shape="rect" id="Node000011" href="$structLibBoard_1_1Image.html" title="Used to draw image in figure." alt="" coords="632,156,757,186"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="549,174,632,171,632,176,549,179"/>
+<area shape="rect" id="Node000013" href="$structLibBoard_1_1QuadraticBezierCurve.html" title="A quadratic Bezier curve having 3 control points. NB. It is also a parabola arc." alt="" coords="603,209,786,258"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="544,231,603,231,603,236,544,236"/>
+<area shape="rect" id="Node000015" href="$classLibBoard_1_1Board.html" title="Class for EPS, FIG or SVG drawings." alt="" coords="401,272,522,302"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="335,268,400,277,400,282,334,274"/>
+<area shape="rect" id="Node000017" href="$structLibBoard_1_1Group.html" title="A group of shapes. A group is basically a ShapeList except that when rendered in either an SVG of a F..." alt="" coords="400,325,523,355"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="307,279,320,284,344,298,368,311,400,322,398,327,366,316,342,303,318,289,305,284"/>
+<area shape="rect" id="Node000016" href="$classDGtal_1_1Board2D.html" title="Aim: This class specializes a &#39;Board&#39; class so as to display DGtal objects more naturally (with &lt;&lt;)...." alt="" coords="635,281,754,311"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="537,287,634,291,634,296,537,293"/>
+</map>

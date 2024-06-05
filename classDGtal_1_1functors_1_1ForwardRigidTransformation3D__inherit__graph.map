@@ -1,0 +1,5 @@
+<map id="DGtal::functors::ForwardRigidTransformation3D&lt; TSpace, TInputValue, TOutputValue, TFunctor &gt;" name="DGtal::functors::ForwardRigidTransformation3D&lt; TSpace, TInputValue, TOutputValue, TFunctor &gt;">
+<area shape="rect" id="Node000001" title="Aim: implements forward rigid transformation of point in 3D integer space around any arbitrary axis...." alt="" coords="5,5,188,92"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1functors_1_1ForwardRigidTransformation3D.html" title=" " alt="" coords="9,159,184,227"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,107,99,159,94,159,94,107"/>
+</map>

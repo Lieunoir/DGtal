@@ -1,0 +1,5 @@
+<map id="DGtal::MelkmanConvexHull&lt; TPoint, TOrientationFunctor &gt;" name="DGtal::MelkmanConvexHull&lt; TPoint, TOrientationFunctor &gt;">
+<area shape="rect" id="Node000001" title="Aim: This class implements the on&#45;line algorithm of Melkman for the computation of the convex hull of..." alt="" coords="8,5,223,54"/>
+<area shape="rect" id="Node000002" href="$classDGtal_1_1MelkmanConvexHull.html" title=" " alt="" coords="5,140,226,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,69,118,140,113,140,113,69"/>
+</map>

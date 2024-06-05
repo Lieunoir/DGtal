@@ -1,0 +1,15 @@
+<map id="DGtal::OrderedAssociativeCategory" name="DGtal::OrderedAssociativeCategory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="473,96,657,145"/>
+<area shape="rect" id="Node000004" href="$structDGtal_1_1MapAssociativeCategory.html" title=" " alt="" coords="705,5,922,35"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="619,85,704,44,739,33,741,38,706,49,622,90"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1MultimapAssociativeCategory.html" title=" " alt="" coords="718,59,909,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="672,101,717,95,718,100,673,107"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1MultisetAssociativeCategory.html" title=" " alt="" coords="722,132,905,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="673,133,722,140,721,146,672,138"/>
+<area shape="rect" id="Node000007" href="$structDGtal_1_1SetAssociativeCategory.html" title=" " alt="" coords="709,204,918,234"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="622,150,706,190,742,201,740,206,704,195,620,155"/>
+<area shape="rect" id="Node000002" href="$structDGtal_1_1AssociativeCategory.html" title=" " alt="" coords="236,105,425,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,118,472,118,472,123,440,123"/>
+<area shape="rect" id="Node000003" href="$structDGtal_1_1ContainerCategory.html" title=" " alt="" coords="5,105,188,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,118,235,118,235,123,203,123"/>
+</map>

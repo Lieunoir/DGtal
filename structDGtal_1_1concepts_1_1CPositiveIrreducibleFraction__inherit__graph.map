@@ -1,0 +1,13 @@
+<map id="DGtal::concepts::CPositiveIrreducibleFraction&lt; T &gt;" name="DGtal::concepts::CPositiveIrreducibleFraction&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Aim: Defines positive irreducible fractions, i.e. fraction p/q, p and q non&#45;negative integers,..." alt="" coords="311,103,494,151"/>
+<area shape="rect" id="Node000002" href="$structboost_1_1CopyConstructible.html" title="Go to http://www.sgi.com/tech/stl/CopyConstructible.html." alt="" coords="31,5,237,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,37,264,44,319,71,367,100,364,104,317,75,262,49,240,42"/>
+<area shape="rect" id="Node000003" href="$structboost_1_1DefaultConstructible.html" title="Go to http://www.sgi.com/tech/stl/DefaultConstructible.html." alt="" coords="23,59,245,88"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,89,311,106,310,111,227,95"/>
+<area shape="rect" id="Node000004" href="$structboost_1_1Assignable.html" title="Go to http://www.sgi.com/tech/stl/Assignable.html." alt="" coords="54,112,214,142"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,124,310,124,310,130,229,130"/>
+<area shape="rect" id="Node000005" href="$structDGtal_1_1concepts_1_1CBackInsertable.html" title="Aim: Represents types for which a std::back_insert_iterator can be constructed with std::back_inserte..." alt="" coords="5,165,263,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="227,159,310,142,311,148,228,164"/>
+<area shape="rect" id="Node000006" href="$structDGtal_1_1concepts_1_1CConstSinglePassRange.html" title="Aim: Defines the concept describing a const single pass range." alt="" coords="30,219,238,267"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="246,210,262,204,315,178,363,149,366,154,318,182,264,209,248,215"/>
+</map>
